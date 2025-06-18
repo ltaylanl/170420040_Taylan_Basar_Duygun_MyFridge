@@ -1,0 +1,6 @@
+train: C:\Porjects\My-Fridge\Data\train\images
+val: C:\Porjects\My-Fridge\Data\valid\images
+test: C:\Porjects\My-Fridge\Data\test\images
+
+names: 
+  0: Receipt
